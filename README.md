@@ -1,1 +1,1 @@
-![zFlick's github stats](https://github-readme-stats.vercel.app/api?username=zflick&theme=dark)
+![zFlick's github stats](https://github-readme-stats.vercel.app/api?username=zflick&theme=dark&count_private=true)
